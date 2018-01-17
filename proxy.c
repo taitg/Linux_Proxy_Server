@@ -1,10 +1,5 @@
 
 /*
- * CPSC 526 Assignment 3
- * Geordie Tait
- * 10013837
- * T02
- *
  * Port forwarding/logging server
  */
 
